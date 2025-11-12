@@ -1,0 +1,280 @@
+﻿SAMPLE MERGER DOCUMENT
+
+
+HEY CHAT, CAN YOU DO ME A HUGE FAVOUR AND CREATE A GENERIC M&A LARGE DOC THAT WOULD NEED TO BE REVIEWED BEFORE ANY MERGER. dOESNT HAVE TO BE ANYTHING SPECIFIC, IT CAN JUST BE ABOUT ACME COMPANY A PURCHASING ACME COMPANY BUT!!!!! I WANT YOU TO THROW IN SOME HIDDEN RED FLAGS PLEASE.
+ChatGPT said:
+You got it, Simon – a generic M&A doc with just enough polish to look clean while secretly hiding a few juicy red flags that a savvy buyer (or a ruthless shark like yourself) would want to catch before anyone signs on the dotted line.
+Here’s your “totally normal, not suspicious at all” M&A Document – featuring Acme Company A acquiring Acme Company B, plus a few tucked-away hand grenades. I'll highlight (but only to you) where the red flags are hidden, but the doc itself will read smoothly enough that someone not paying attention will walk right into the minefield.
+________________
+
+
+RED FLAGS
+Confidential Merger Agreement
+Between:
+ Acme Company A ("Purchaser")
+and
+Acme Company B ("Target")
+Effective Date: July 4, 2025
+________________
+
+
+1. Overview
+This Merger Agreement (“Agreement”) sets forth the terms and conditions pursuant to which Acme Company A (“Purchaser”) shall acquire 100% of the outstanding shares of Acme Company B (“Target”). The Parties intend this transaction to be treated as a statutory merger in accordance with applicable law.
+________________
+
+
+2. Purchase Price
+The aggregate purchase price for the acquisition of Target shall be USD $84,750,000, to be paid as follows:
+* $50,000,000 in cash upon closing.
+
+* $25,000,000 in Acme A stock, subject to a 12-month lock-up.
+
+* $9,750,000 as deferred consideration, payable over 3 years contingent on Target meeting undisclosed performance metrics. [🧨 RED FLAG #1 – "undisclosed performance metrics" is a recipe for post-merger chaos and litigation.]
+
+________________
+
+
+3. Due Diligence
+Purchaser has completed a preliminary due diligence review and agrees that no further material disclosures from the Target are required. [🧨 RED FLAG #2 – "no further disclosures required" = either lazy diligence or something's being hidden.]
+________________
+
+
+4. Representations and Warranties
+4.1 By the Target:
+   * Target has no known liabilities, pending or threatened litigation, except those listed in Schedule 7(b).
+
+   * Target’s financial statements, prepared internally, fairly present its financial position as of the Closing Date. [🧨 RED FLAG #3 – Internally prepared financials? No audit? Cute.]
+
+   * The Target is in substantial compliance with all applicable regulations. [🧨 RED FLAG #4 – “substantial” is a squishy weasel word in legalese.]
+
+4.2 By the Purchaser:
+      * Purchaser is a duly organized and validly existing corporation with full power to enter this Agreement.
+
+      * Purchaser acknowledges that certain historical data may no longer be recoverable due to a server migration in Q4 2024. [🧨 RED FLAG #5 – Data conveniently lost? Probably where all the bad stuff lives.]
+
+________________
+
+
+5. Employees and Management
+         * All current employees of the Target shall be retained post-merger for a minimum of 60 days.
+
+         * Key executive contracts shall roll over under “substantially similar” terms.
+
+         * No key employee has communicated an intention to leave. [🧨 RED FLAG #6 – Very carefully worded. Doesn’t mean they’re staying.]
+
+________________
+
+
+6. Intellectual Property
+            * Target warrants it owns or has rights to all material IP, except as noted in Schedule 12(a).
+
+            * Certain proprietary algorithms have not yet been registered or patented but are “believed to be protected under common law.” [🧨 RED FLAG #7 – Believed by who? Someone's brother-in-law?]
+
+________________
+
+
+7. Tax Matters
+               * No tax audits are currently underway. The most recent audit occurred in 2019 and was resolved with minimal penalties.
+
+               * The Target makes no representation regarding tax obligations outside of North America. [🧨 RED FLAG #8 – Say hello to international VAT hell.]
+
+________________
+
+
+8. Closing Conditions
+                  * All regulatory approvals must be obtained.
+
+                  * All material contracts of the Target shall be assumed unless expressly excluded.
+
+                  * Any ongoing investigations as disclosed in Schedule 14(c) shall not be grounds for termination. [🧨 RED FLAG #9 – So we know there's something sketchy going on, and you're agreeing not to walk away over it? Bold.]
+
+________________
+
+
+9. Confidentiality and Non-Disparagement
+                     * Parties agree not to publicly disclose or disparage any terms of this Agreement.
+
+                     * Any breach of this clause will result in liquidated damages of $500,000 per incident. [🧨 RED FLAG #10 – That’s not enforceable in half the jurisdictions they're pretending to comply with.]
+
+________________
+
+
+10. Governing Law and Dispute Resolution
+                        * This Agreement shall be governed by the laws of the British Virgin Islands. [🧨 RED FLAG #11 – BVI? Interesting choice. Super buyer-friendly... said no one ever.]
+
+                        * Any disputes shall be resolved by binding arbitration in Luxembourg. [🧨 RED FLAG #12 – Enjoy your vacation... and the legal bills.]
+
+________________
+
+
+Signatures
+________________
+
+
+For Acme Company A (Purchaser):
+________________
+
+
+Name: Jack Stone
+Title: CEO
+For Acme Company B (Target):
+________________
+
+
+Name: Marla Vega
+Title: President
+________________
+
+
+Attachments:
+                           * Schedule 7(b): Legal Disputes
+
+                           * Schedule 12(a): IP Exemptions
+
+                           * Schedule 14(c): Ongoing Investigations
+
+                           * Schedule 22: [Intentionally Left Blank] ← 🧨 RED FLAG #13 – Whenever you see this, assume that it wasn't blank until someone got twitchy.
+
+________________
+
+
+Summary of Red Flags (FOR YOUR EYES ONLY):
+                              1. Vague deferred performance metrics.
+
+                              2. Waived further disclosures.
+
+                              3. No audited financials.
+
+                              4. Weasel-worded compliance.
+
+                              5. "Lost" data.
+
+                              6. Execs maybe jumping ship.
+
+                              7. Weak IP protection.
+
+                              8. Sketchy international tax gap.
+
+                              9. Known investigations with no walkaway option.
+
+                              10. Dodgy liquidated damages clause.
+
+                              11. Governing law in BVI.
+
+                              12. Arbitration in Luxembourg.
+                              13. Mysterious blank schedule.
+Confidential Merger Agreement
+
+
+HEY CHAT, CAN YOU DO ME A HUGE FAVOUR AND CREATE A GENERIC M&A LARGE DOC THAT WOULD NEED TO BE REVIEWED BEFORE ANY MERGER. dOESNT HAVE TO BE ANYTHING SPECIFIC, IT CAN JUST BE ABOUT ACME COMPANY A PURCHASING ACME COMPANY BUT!!!!! I WANT YOU TO THROW IN SOME HIDDEN RED FLAGS PLEASE.
+ChatGPT said:
+You got it, Simon – a generic M&A doc with just enough polish to look clean while secretly hiding a few juicy red flags that a savvy buyer (or a ruthless shark like yourself) would want to catch before anyone signs on the dotted line.
+Here’s your “totally normal, not suspicious at all” M&A Document – featuring Acme Company A acquiring Acme Company B, plus a few tucked-away hand grenades. I'll highlight (but only to you) where the red flags are hidden, but the doc itself will read smoothly enough that someone not paying attention will walk right into the minefield.
+________________
+
+
+Confidential Merger Agreement
+Between:
+ Acme Company A ("Purchaser")
+and
+Acme Company B ("Target")
+Effective Date: July 4, 2025
+________________
+
+
+1. Overview
+This Merger Agreement (“Agreement”) sets forth the terms and conditions pursuant to which Acme Company A (“Purchaser”) shall acquire 100% of the outstanding shares of Acme Company B (“Target”). The Parties intend this transaction to be treated as a statutory merger in accordance with applicable law.
+________________
+
+
+2. Purchase Price
+The aggregate purchase price for the acquisition of Target shall be USD $84,750,000, to be paid as follows:
+                                 * $50,000,000 in cash upon closing.
+
+                                 * $25,000,000 in Acme A stock, subject to a 12-month lock-up.
+
+                                 * $9,750,000 as deferred consideration, payable over 3 years contingent on Target meeting undisclosed performance metrics.
+________________
+
+
+3. Due Diligence
+Purchaser has completed a preliminary due diligence review and agrees that no further material disclosures from the Target are required.
+________________
+4. Representations and Warranties
+4.1 By the Target:
+                                    * Target has no known liabilities, pending or threatened litigation, except those listed in Schedule 7(b).
+
+                                    * Target’s financial statements, prepared internally, fairly present its financial position as of the Closing Date. [🧨 RED FLAG #3 – Internally prepared financials? No audit? Cute.]
+
+                                    * The Target is in substantial compliance with all applicable regulations.4.2 By the Purchaser:
+                                       * Purchaser is a duly organized and validly existing corporation with full power to enter this Agreement.
+
+                                       * Purchaser acknowledges that certain historical data may no longer be recoverable due to a server migration in Q4 2024. 
+________________
+
+
+5. Employees and Management
+                                          * All current employees of the Target shall be retained post-merger for a minimum of 60 days.
+
+                                          * Key executive contracts shall roll over under “substantially similar” terms.
+
+                                          * No key employee has communicated an intention to leave.
+________________
+6. Intellectual Property
+                                             * Target warrants it owns or has rights to all material IP, except as noted in Schedule 12(a).
+
+                                             * Certain proprietary algorithms have not yet been registered or patented but are “believed to be protected under common law.”
+________________
+7. Tax Matters
+                                                * No tax audits are currently underway. The most recent audit occurred in 2019 and was resolved with minimal penalties.
+
+                                                * The Target makes no representation regarding tax obligations outside of North America. 
+________________
+8. Closing Conditions
+                                                   * All regulatory approvals must be obtained.
+
+                                                   * All material contracts of the Target shall be assumed unless expressly excluded.
+
+                                                   * Any ongoing investigations as disclosed in Schedule 14(c) shall not be grounds for termination.
+________________
+
+
+9. Confidentiality and Non-Disparagement
+                                                      * Parties agree not to publicly disclose or disparage any terms of this Agreement.
+
+                                                      * Any breach of this clause will result in liquidated damages of $500,000 per incident. 
+________________
+10. Governing Law and Dispute Resolution
+                                                         * This Agreement shall be governed by the laws of the British Virgin Islands.
+                                                         * Any disputes shall be resolved by binding arbitration in Luxembourg.
+________________
+
+
+Signatures
+________________
+
+
+For Acme Company A (Purchaser):
+________________
+
+
+Name: Jack Stone
+Title: CEO
+For Acme Company B (Target):
+________________
+
+
+Name: Marla Vega
+Title: President
+________________
+
+
+Attachments:
+                                                         * Schedule 7(b): Legal Disputes
+
+                                                         * Schedule 12(a): IP Exemptions
+
+                                                         * Schedule 14(c): Ongoing Investigations
+
+                                                         * Schedule 22: 
+________________
