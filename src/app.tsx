@@ -1,6 +1,6 @@
-// THIS IS YOUR COMPONENT FILE
-// Just rename your index.jsx to App.tsx and paste your code here
-// Make sure to change the export to:
+import React from 'react';
+import MADDueDiligenceAnalyzer from './index';
+
 export default function App() {
-  // ... your existing MADDueDiligenceAnalyzer code ...
+  return <MADDueDiligenceAnalyzer />;
 }
